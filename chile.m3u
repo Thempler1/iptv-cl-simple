@@ -20,3 +20,15 @@ https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Chile",Canal 13 prueba 2
 https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8
+
+#EXTINF:-1 group-title="Chile",TVN nuevo
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 group-title="Chile",Canal 13 nuevo
+https://cl-canal13-13now-live.ned.media/live.m3u8
+
+#EXTINF:-1 group-title="Chile",Canal 13 alternativo 2
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+
+#EXTINF:-1 group-title="Chile",Canal 13 alternativo 3
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
