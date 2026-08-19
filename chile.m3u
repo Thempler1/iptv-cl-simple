@@ -32,3 +32,9 @@ http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
 
 #EXTINF:-1 group-title="Chile",Canal 13 alternativo 3
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
+#EXTINF:-1 group-title="Chile",TVN Rudo
+https://rudo.video/live/tvn
+
+#EXTINF:-1 group-title="Chile",Canal 13 Rudo
+https://rudo.video/live/c13
