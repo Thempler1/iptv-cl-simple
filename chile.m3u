@@ -18,3 +18,6 @@ https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 group-title="Noticias",Meganoticias
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Chile",CNN Chile
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+
